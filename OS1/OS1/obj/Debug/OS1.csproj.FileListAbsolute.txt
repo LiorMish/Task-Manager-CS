@@ -1,0 +1,11 @@
+C:\Users\liorm\source\repos\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\liorm\source\repos\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\liorm\source\repos\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.csproj.AssemblyReference.cache
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.start.resources
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.cache
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\liorm\source\repos\OS1\OS1\obj\Debug\OS1.pdb
